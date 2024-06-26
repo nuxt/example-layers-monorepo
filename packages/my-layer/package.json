@@ -10,6 +10,7 @@
     "preview": "nuxt preview .playground",
     "lint": "eslint .",
     "postinstall": "nuxt prepare .playground",
+    "prepare": "nuxt prepare .playground",
     "typecheck": "nuxt typecheck"
   },
   "devDependencies": {
