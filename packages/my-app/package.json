@@ -13,10 +13,10 @@
   },
   "dependencies": {
     "my-layer": "workspace:*",
-    "nuxt": "^3.12.1",
-    "typescript": "^5.4.5",
-    "vue": "^3.4.27",
-    "vue-router": "^4.3.2",
-    "vue-tsc": "^2.0.21"
+    "nuxt": "^3.12.2",
+    "typescript": "^5.5.2",
+    "vue": "^3.4.30",
+    "vue-router": "^4.4.0",
+    "vue-tsc": "^2.0.22"
   }
 }
