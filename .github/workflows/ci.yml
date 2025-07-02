@@ -1,0 +1,25 @@
+name: ci
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+permissions: {}
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: corepack enable
+      - uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+          cache: "pnpm"
+      - run: pnpm install
+      - run: pnpm prepare
+      - run: pnpm pnpm run -r typecheck
