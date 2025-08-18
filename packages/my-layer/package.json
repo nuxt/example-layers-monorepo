@@ -13,7 +13,7 @@
     "typecheck": "nuxt typecheck"
   },
   "devDependencies": {
-    "@nuxt/eslint": "1.8.0",
+    "@nuxt/eslint": "1.9.0",
     "eslint": "^9.33.0",
     "nuxt": "^4.0.3",
     "typescript": "^5.9.2",
