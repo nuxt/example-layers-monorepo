@@ -26,7 +26,7 @@ importers:
         specifier: ^4.5.1
         version: 4.5.1(vue@3.5.21(typescript@5.9.2))
       vue-tsc:
-        specifier: ^3.0.6
+        specifier: ^3.0.7
         version: 3.0.7(typescript@5.9.2)
 
   packages/my-layer:
@@ -47,7 +47,7 @@ importers:
         specifier: ^3.5.21
         version: 3.5.21(typescript@5.9.2)
       vue-tsc:
-        specifier: ^3.0.6
+        specifier: ^3.0.7
         version: 3.0.7(typescript@5.9.2)
 
 packages:
