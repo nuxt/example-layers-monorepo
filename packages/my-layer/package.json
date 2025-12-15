@@ -13,11 +13,11 @@
     "typecheck": "nuxt typecheck"
   },
   "devDependencies": {
-    "@nuxt/eslint": "1.11.0",
-    "eslint": "^9.39.1",
+    "@nuxt/eslint": "1.12.1",
+    "eslint": "^9.39.2",
     "nuxt": "^4.2.2",
     "typescript": "^5.9.3",
     "vue": "^3.5.25",
-    "vue-tsc": "^3.1.7"
+    "vue-tsc": "^3.1.8"
   }
 }
