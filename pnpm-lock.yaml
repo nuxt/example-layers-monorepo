@@ -20,7 +20,7 @@ importers:
         specifier: ^6.0.2
         version: 6.0.2
       vue:
-        specifier: ^3.5.31
+        specifier: ^3.5.32
         version: 3.5.32(typescript@6.0.2)
       vue-router:
         specifier: ^5.0.4
@@ -35,7 +35,7 @@ importers:
         specifier: 1.15.2
         version: 1.15.2(@typescript-eslint/utils@8.57.0(eslint@10.2.0(jiti@2.6.1))(typescript@6.0.2))(@vue/compiler-sfc@3.5.32)(eslint@10.2.0(jiti@2.6.1))(magicast@0.5.2)(typescript@6.0.2)(vite@7.3.1(jiti@2.6.1)(terser@5.46.0)(yaml@2.8.2))
       eslint:
-        specifier: ^10.1.0
+        specifier: ^10.2.0
         version: 10.2.0(jiti@2.6.1)
       nuxt:
         specifier: ^4.4.2
@@ -44,7 +44,7 @@ importers:
         specifier: ^6.0.2
         version: 6.0.2
       vue:
-        specifier: ^3.5.31
+        specifier: ^3.5.32
         version: 3.5.32(typescript@6.0.2)
       vue-tsc:
         specifier: ^3.2.6
