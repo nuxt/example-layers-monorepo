@@ -20,10 +20,10 @@ importers:
         specifier: ^6.0.3
         version: 6.0.3
       vue:
-        specifier: ^3.5.32
+        specifier: ^3.5.33
         version: 3.5.33(typescript@6.0.3)
       vue-router:
-        specifier: ^5.0.4
+        specifier: ^5.0.6
         version: 5.0.6(@vue/compiler-sfc@3.5.33)(vue@3.5.33(typescript@6.0.3))
       vue-tsc:
         specifier: ^3.2.7
@@ -44,7 +44,7 @@ importers:
         specifier: ^6.0.3
         version: 6.0.3
       vue:
-        specifier: ^3.5.32
+        specifier: ^3.5.33
         version: 3.5.33(typescript@6.0.3)
       vue-tsc:
         specifier: ^3.2.7
