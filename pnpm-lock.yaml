@@ -35,7 +35,7 @@ importers:
         specifier: 1.15.2
         version: 1.15.2(@typescript-eslint/utils@8.58.1(eslint@10.3.0(jiti@2.6.1))(typescript@6.0.3))(@vue/compiler-sfc@3.5.33)(eslint@10.3.0(jiti@2.6.1))(magicast@0.5.2)(typescript@6.0.3)(vite@7.3.2(jiti@2.6.1)(terser@5.46.1)(yaml@2.8.3))
       eslint:
-        specifier: ^10.2.1
+        specifier: ^10.3.0
         version: 10.3.0(jiti@2.6.1)
       nuxt:
         specifier: ^4.4.4
