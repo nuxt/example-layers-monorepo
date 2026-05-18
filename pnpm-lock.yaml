@@ -23,10 +23,10 @@ importers:
         specifier: ^3.5.34
         version: 3.5.34(typescript@6.0.3)
       vue-router:
-        specifier: ^5.0.6
+        specifier: ^5.0.7
         version: 5.0.7(@vue/compiler-sfc@3.5.34)(vue@3.5.34(typescript@6.0.3))
       vue-tsc:
-        specifier: ^3.2.8
+        specifier: ^3.2.9
         version: 3.2.9(typescript@6.0.3)
 
   packages/my-layer:
@@ -35,7 +35,7 @@ importers:
         specifier: 1.15.2
         version: 1.15.2(@typescript-eslint/utils@8.58.1(eslint@10.4.0(jiti@2.7.0))(typescript@6.0.3))(@vue/compiler-sfc@3.5.34)(eslint@10.4.0(jiti@2.7.0))(magicast@0.5.2)(typescript@6.0.3)(vite@7.3.3(jiti@2.7.0)(terser@5.46.1)(yaml@2.8.3))
       eslint:
-        specifier: ^10.3.0
+        specifier: ^10.4.0
         version: 10.4.0(jiti@2.7.0)
       nuxt:
         specifier: ^4.4.6
@@ -47,7 +47,7 @@ importers:
         specifier: ^3.5.34
         version: 3.5.34(typescript@6.0.3)
       vue-tsc:
-        specifier: ^3.2.8
+        specifier: ^3.2.9
         version: 3.2.9(typescript@6.0.3)
 
 packages:
