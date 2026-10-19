@@ -14,7 +14,7 @@
     "my-layer": "workspace:*",
     "nuxt": "^4.6.2",
     "typescript": "^6.0.3",
-    "vue": "^3.5.43",
+    "vue": "^3.5.44",
     "vue-router": "^5.4.0",
     "vue-tsc": "^3.3.13"
   }
